@@ -38,3 +38,9 @@ HelloWorld.sys   — derlenmiş örnek
 DbgHelp/         — debug yardımcı
 SymbolsFromPDB/  — PDB offset çıkarma
 ```
+
+---
+
+## İletişim
+
+Discord: [https://discord.gg/vU7PNVr8vk](https://discord.gg/vU7PNVr8vk)
